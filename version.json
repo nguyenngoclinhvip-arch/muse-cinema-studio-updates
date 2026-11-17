@@ -1,13 +1,13 @@
 {
   "app": "MUSE_CINEMA_STUDIO",
-  "version": "1.3",
-  "title": "Bản cập nhật MUSE CINEMA STUDIO v1.3",
-  "changelog": "• Mỗi tài khoản Muse.ai sở hữu 1 trang dự án sản xuất bộ phim riêng biệt (giống MUSE FLOW STUDIO 3.8), hỗ trợ mở trang mới & chạy sản xuất song song nhiều phim cùng lúc.\n• Kích hoạt kênh Tự động cập nhật phiên bản mới OTA trực tiếp từ GitHub.",
+  "version": "1.4",
+  "title": "Bản cập nhật MUSE CINEMA STUDIO v1.4",
+  "changelog": "• Kho Bối Cảnh & Phim Trường Cố Định (#Tag + AI vẽ bối cảnh 100% không người) chống nhảy kiến trúc giữa các cảnh\n• Tự động bật/tắt Nối Cảnh Thông Minh (CHAIN/CUT) & dòng chảy ánh mắt Cảnh trước -> Cảnh sau\n• Khóa cố định âm sắc giọng nói riêng (Voice Timbre Lock) cho từng nhân vật xuyên suốt bộ phim\n• Cắt nhịp thừa Đầu/Đuôi từng cảnh & Chuyển cảnh Đạo diễn thông minh (0.08s/0.36s) khớp phụ đề .SRT\n• Mastering âm lượng thoại chuẩn rạp (-16 LUFS) & Tự động hạ nhỏ nhạc nền khi có tiếng nói (Auto-Ducking)",
   "mandatory": false,
-  "patchFile": "update_v1.3.zip",
-  "patchSize": 197769,
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v1.3.zip",
-  "sha256": "f406cf2602b12d29b2ada08f7e028476d9f99c8358a71b964bd883179891e4d9",
-  "publishedAt": "2026-11-17T04:18:24.801Z",
-  "signature": "pwYZ0dwpi6lTyg_-P96P9_SzeHZx0oB5wMYkm9rPdecruKErq5b1dUDqtSyG-8Nff4tcGhJttaJJES_BtdbDvMESp38wpmpdsFQLSteQh2M89H7ts5tP26tPpifIOj2nCLbukIqLVl3b4xCojbS6R_-RuRih6vnrrbSTllE_0d5NVCsgQS5eqmv3Jz1RdvcmtWF_NqVSYdKy4Q0t2f8iUWIpQnEFcWPVsVF8jllx10yoZMdH_x25OSGnwfpA_B7YZS3Gw1O07E9JnNQeYydDlzKOlmMIwBh9uWkTtKQOlSx9UhqPhHsueNIpMftChAhZu44xO3odFBnMDP9BnHx8jg"
+  "patchFile": "update_v1.4.zip",
+  "patchSize": 209028,
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v1.4.zip",
+  "sha256": "309690d6aa94917db6e6947843b5c3abb769579362ff10d283c83ce411201c04",
+  "publishedAt": "2026-11-17T11:19:17.281Z",
+  "signature": "aSCQ7t0k93BwRWDeJ39yYxglDYzoM7XpG_A84CID0BHdJbjANgSyzT_hfrtBlSEx6BvEon7PxAAte_l3Td-kjGtvOjRNnj0LkKCOoQCFW-52_w1C8vZrYAtIn4Pts1j6n7ZxagDH2IAufeehZm5xlnFYrxOh4BaIDWcjEMpkFuVydogpq3jW-rYMc6AsmQmT-LR4ZrRySIVANX_36K8K02KnATHbUejAXYHWAHYNjEEvc9Tsf83Io3CBOCrPOlxvk9PqLmWT-Zqh9WGsTjYbZIp6vtrETvG29li3Kvie2gIxPgQPCObr1y060V0L514qqcu2JVyxFFFzF0d4HV22rg"
 }
