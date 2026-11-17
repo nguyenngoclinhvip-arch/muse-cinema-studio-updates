@@ -1,13 +1,13 @@
 {
   "app": "MUSE_CINEMA_STUDIO",
-  "version": "1.4",
-  "title": "Bản cập nhật MUSE CINEMA STUDIO v1.4",
-  "changelog": "• Kho Bối Cảnh & Phim Trường Cố Định (#Tag + AI vẽ bối cảnh 100% không người) chống nhảy kiến trúc giữa các cảnh\n• Tự động bật/tắt Nối Cảnh Thông Minh (CHAIN/CUT) & dòng chảy ánh mắt Cảnh trước -> Cảnh sau\n• Khóa cố định âm sắc giọng nói riêng (Voice Timbre Lock) cho từng nhân vật xuyên suốt bộ phim\n• Cắt nhịp thừa Đầu/Đuôi từng cảnh & Chuyển cảnh Đạo diễn thông minh (0.08s/0.36s) khớp phụ đề .SRT\n• Mastering âm lượng thoại chuẩn rạp (-16 LUFS) & Tự động hạ nhỏ nhạc nền khi có tiếng nói (Auto-Ducking)",
+  "version": "1.5",
+  "title": "Bản cập nhật MUSE CINEMA STUDIO v1.5",
+  "changelog": "• Nâng cấp Hệ thống Khóa Vũ Khí & Pháp Bảo Thông Minh (Weapon DNA + Ô Ảnh Vũ Khí riêng + Tự động khóa hình học ở cảnh chiến đấu chống biến đổi loạn xạ). • Khi có Vũ khí cố định, AI Tạo Nhân Vật tự vẽ góc 3/4 cầm đúng vũ khí ngay từ ảnh gốc. • Bổ sung nút Xóa Toàn Bộ Làm Lại Từ Đầu ở Thanh trên cùng & Bước 1-2 (giữ nguyên tài khoản đã đăng nhập).",
   "mandatory": false,
-  "patchFile": "update_v1.4.zip",
-  "patchSize": 209028,
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v1.4.zip",
-  "sha256": "309690d6aa94917db6e6947843b5c3abb769579362ff10d283c83ce411201c04",
-  "publishedAt": "2026-11-17T11:19:17.281Z",
-  "signature": "aSCQ7t0k93BwRWDeJ39yYxglDYzoM7XpG_A84CID0BHdJbjANgSyzT_hfrtBlSEx6BvEon7PxAAte_l3Td-kjGtvOjRNnj0LkKCOoQCFW-52_w1C8vZrYAtIn4Pts1j6n7ZxagDH2IAufeehZm5xlnFYrxOh4BaIDWcjEMpkFuVydogpq3jW-rYMc6AsmQmT-LR4ZrRySIVANX_36K8K02KnATHbUejAXYHWAHYNjEEvc9Tsf83Io3CBOCrPOlxvk9PqLmWT-Zqh9WGsTjYbZIp6vtrETvG29li3Kvie2gIxPgQPCObr1y060V0L514qqcu2JVyxFFFzF0d4HV22rg"
+  "patchFile": "update_v1.5.zip",
+  "patchSize": 216940,
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v1.5.zip",
+  "sha256": "f27795496ad9017943d1f3249bc53a65697d0161e75900b79c63f67f96bf0716",
+  "publishedAt": "2026-11-17T17:50:05.660Z",
+  "signature": "UR-uN8qrsVHJCejnPAkapwvXThtu0FgsNEMf0gUztlgIkehEe88tZ9WLhn9bmKej3OZMTKJA00sLaCzy28pa1cex40QQqaDVOh2Q_WyHcCkHvv3VlxGlaPslT3ApHpB5ofHXWx36UFVkyZM6xI-aUs-N9YBUwI_JgZFzm93gHuR7vHWZvER-YzxRq8UiIrghWC_QEevVc3hI-ScDg6HV1Qh8SOZzJUK2JYCvaZCXJPlaiY4WiH_n8lRTaXX-8Gt_HpqLZLzwaGYCJ8q_72vc0cBj2vScq7yj5bDr94DerfHvpNq2CpYtxhlN8-Y9t-blaDofNUjnw2XTDoKTwh9_mw"
 }
