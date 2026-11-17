@@ -1,0 +1,13 @@
+{
+  "app": "MUSE_CINEMA_STUDIO",
+  "version": "1.3",
+  "title": "Bản cập nhật MUSE CINEMA STUDIO v1.3",
+  "changelog": "• Mỗi tài khoản Muse.ai sở hữu 1 trang dự án sản xuất bộ phim riêng biệt (giống MUSE FLOW STUDIO 3.8), hỗ trợ mở trang mới & chạy sản xuất song song nhiều phim cùng lúc.\n• Kích hoạt kênh Tự động cập nhật phiên bản mới OTA trực tiếp từ GitHub.",
+  "mandatory": false,
+  "patchFile": "update_v1.3.zip",
+  "patchSize": 197769,
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v1.3.zip",
+  "sha256": "f406cf2602b12d29b2ada08f7e028476d9f99c8358a71b964bd883179891e4d9",
+  "publishedAt": "2026-11-17T04:18:24.801Z",
+  "signature": "pwYZ0dwpi6lTyg_-P96P9_SzeHZx0oB5wMYkm9rPdecruKErq5b1dUDqtSyG-8Nff4tcGhJttaJJES_BtdbDvMESp38wpmpdsFQLSteQh2M89H7ts5tP26tPpifIOj2nCLbukIqLVl3b4xCojbS6R_-RuRih6vnrrbSTllE_0d5NVCsgQS5eqmv3Jz1RdvcmtWF_NqVSYdKy4Q0t2f8iUWIpQnEFcWPVsVF8jllx10yoZMdH_x25OSGnwfpA_B7YZS3Gw1O07E9JnNQeYydDlzKOlmMIwBh9uWkTtKQOlSx9UhqPhHsueNIpMftChAhZu44xO3odFBnMDP9BnHx8jg"
+}
