@@ -1,13 +1,13 @@
 {
   "app": "MUSE_CINEMA_STUDIO",
-  "version": "1.6",
-  "title": "Bản cập nhật MUSE CINEMA STUDIO v1.6",
-  "changelog": "• Sửa lỗi nhân vật cảnh nào cũng cầm vũ khí: bộ nhận diện mới chỉ cho rút vũ khí khi cảnh có hành động thật (rút kiếm, vung đao, giao chiến...), không còn nhầm các từ thường như 'cùng', 'con', 'tên', 'nó', 'tìm kiếm', 'cung điện'\n• Gán đúng người cầm vũ khí trong cảnh nhiều nhân vật\n• Thêm ô '⚔️ Vũ khí: Tự động / Rút vũ khí / Tay không' trên từng thẻ cảnh để ép thủ công\n• Cảnh hòa bình tự dặn AI bỏ qua vũ khí trong ảnh nhân vật & tự cất vũ khí khi nối từ cảnh đánh nhau\n• Ảnh chân dung AI giờ luôn vẽ tay không (vũ khí khóa riêng bằng ảnh vũ khí)\n• Chế độ 'Đeo theo người': vũ khí chỉ đeo ở hông/lưng, chỉ rút khi cần",
+  "version": "1.7",
+  "title": "Bản cập nhật MUSE CINEMA STUDIO v1.7",
+  "changelog": "• Khu vực ⚔️ Vũ khí / Pháp bảo (ảnh vũ khí, AI tạo vũ khí, ô Vũ khí trên thẻ cảnh) giờ CHỈ hiện khi chọn thể loại 🐉 Tiên Hiệp / Huyền Huyễn\n• Các thể loại khác tự tắt hoàn toàn vũ khí khi quay phim (không gửi ảnh vũ khí, không nhắc vũ khí trong lệnh gửi Muse.ai)\n• AI Đạo Diễn chỉ trích xuất vũ khí nhân vật khi làm phim Tiên Hiệp / Huyền Huyễn\n• Dữ liệu vũ khí đã nhập vẫn được giữ nguyên, đổi lại thể loại Tiên Hiệp là dùng tiếp được",
   "mandatory": false,
-  "patchFile": "update_v1.6.zip",
-  "patchSize": 221502,
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v1.6.zip",
-  "sha256": "3d3e09e5264265d9b383bffb1a08a6f5ba03e69227b4fd917752010c245ae655",
-  "publishedAt": "2026-11-18T12:50:43.513Z",
-  "signature": "B1Ir7YIlPktSk_M4l9EpDDhxJM1vlAMo3uppEoK7jRJfgQH03QRLHWWejlmb2diUKuBNrB4zo02e4khxtBKipAINQmPWuvoiKyOxV0Thlqke_BJSaWp9s51r0zuGC1IfZPe297bPf6jZIXAHoy_lQeM9KIlpQDqsDdgfCUhGAhbV6u6sz-IIORWXTd1TQcUULueAP30oD4pWG1xRnfGmDxJcRnBHfBOBrdWzLR8Kf3PerZio8BB_eXyPWws2rvIlywNg0duXfNflbfuNBQna5n-Bykk2Az4Lr83jJaYo6dmqqcH1AZwgt08gyrUss8gSW2dkqdIpiSIM3COoZJe7LA"
+  "patchFile": "update_v1.7.zip",
+  "patchSize": 222345,
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v1.7.zip",
+  "sha256": "e184930e4e5c516fa32ee27964c831fd4712ab0ee1922d3ebd03969ad69d312a",
+  "publishedAt": "2026-11-18T16:46:42.697Z",
+  "signature": "puFHOsmoaVh1dSNEE6LaLvAb2wF7Sym88zzYQsAdJxN42wL5XJHKngnVmwpgbLw9yw9XSgbsYJYofeufT5RVRtwj0dR1tqUGcvFoh9ia0bBcUWaGF5v1MeGUC5JSgOMF77q0ZPWYl7NKk86zAF6pqPhwd4kOW65iQ_Jdjv_nzvJnySdsUpmEkxpqPp72Apwxapu3JWI2Fd6TAVY7TjPfsmpdeJhr1jRgmhHho5Sk72jnPLf8TnsZ-KkM8GlOrMcVfIT4hUrU_5ns48AzGD2K6D44URn2TGvXdMqwP6Ac-58VLt-BYa7H3-Ba7DLTdFDsDegbkTEDD7qL1LIBceHYgw"
 }
