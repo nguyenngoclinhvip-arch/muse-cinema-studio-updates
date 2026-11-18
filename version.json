@@ -1,13 +1,13 @@
 {
   "app": "MUSE_CINEMA_STUDIO",
-  "version": "1.8",
-  "title": "Bản cập nhật MUSE CINEMA STUDIO v1.8",
-  "changelog": "• 🎥 Ngôn ngữ máy quay: mỗi cảnh chọn được Cỡ cảnh / Góc máy & Chuyển động máy; chế độ Tự động để Đạo diễn tự xếp nhịp (toàn cảnh mở đầu, cận mặt khi cảm xúc, bám theo khi hành động); AI Đạo Diễn tự gán góc máy cho từng cảnh\n• 🎞️ Nhiều bản quay mỗi cảnh: nút 'Quay Thêm Bản' giữ lại bản cũ, chọn bản đẹp nhất bằng 1 click\n• 🛡️ Tự kiểm tra chất lượng (khung đen, đứng hình, mất tiếng, thiếu thời lượng) & tự quay lại cảnh lỗi, giữ bản điểm cao nhất\n• 🎨 Chỉnh màu đồng bộ toàn phim khi xuất (cân màu các cảnh + 8 tông màu điện ảnh)\n• 🖼️ Tự tạo Ảnh bìa có tên phim & 🎞️ Trailer 15/30/60 giây có nhạc nền",
+  "version": "1.9",
+  "title": "Bản cập nhật MUSE CINEMA STUDIO v1.9",
+  "changelog": "Nâng cấp v1.9: Khóa chặt diễn xuất tự nhiên tiết chế toàn phim — loại bỏ triệt để lỗi nhân vật tự cười vô lý sau khi nói xong thoại, khóa chống khóc giàn giụa nước mắt, chống nhăn nhó méo mặt & chống nhăn trán cau có quá đà; tự động làm dịu các mô tả cảm xúc làm lố nhưng giữ nguyên 100% lời thoại; bổ sung tùy chọn Khóa Biểu Cảm ở Bước 1.",
   "mandatory": false,
-  "patchFile": "update_v1.8.zip",
-  "patchSize": 246015,
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v1.8.zip",
-  "sha256": "2e2faae33120e578cff57231d03fa7b2cfd06ee81363d59e128f131409b47448",
-  "publishedAt": "2026-11-18T17:26:22.290Z",
-  "signature": "N05-4BTZI8pwTzTnZsDPu3nST3zY0GiCmbM-P6o-cQaHVeDUSVa9CvFSS4ObKZTgB6p1vzY-c5lLZSsMNcBoyHkxqpMipizSBafuHRn07hfVkZeOuOIcwM2c1lKTtg0KP07xIRcXl0-yJ4CyPEkkqyw0pX0aeziCyN_PFuxGxPCjN2BDIN9e8N2SnOg8XHuOgmId9IlktmktZo2QXwQtYer5IHWLKJZCYjOxuWVuMQn1N5rmB_woDMYmbtvATeMKT4GQx6rE9Am30vSl9WjH9bUuXh7srO2Lq_Jlvug2soUbhghVd3PsxvV6BHfg_7MrOnJMiZ9lb6z7FNukRwO_Sw"
+  "patchFile": "update_v1.9.zip",
+  "patchSize": 250220,
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v1.9.zip",
+  "sha256": "0eeabf9e0bd5ddd1da74d6b26ba86584f67790af5e09f72499d1049170cbb62b",
+  "publishedAt": "2026-11-18T18:47:15.993Z",
+  "signature": "EUzoOXBuAt5Nyjb5ZScplIPqMQGbshL3rd-t6CujF1d_hFGCUTU77LTCQce6nw0EVcemUoqcJTcKBjZuhS6nDXAN8MPA49PIDvedjasd4-RXWIofVkvU1vI_ftSsvz5cJw-lu-frMGvjFHQXs36Rv_PXoeMKU2EnHXHzMEJiIgQ3XMkvpvpDgriv5jTLuN_sbM-_cp4UBsZdNlsr2UFNF5shErAUSdcRE_v8TAYQEQqUA2KwQSX6EyJa947_NVX1wsO79ROEY3sROgrpIgApb0WJkPtLHjr06iml1Qo3Vk1LRsvXUT9uoC93EPc1Um3MBeaSxjHWLqJbzpDQ1tqHvw"
 }
