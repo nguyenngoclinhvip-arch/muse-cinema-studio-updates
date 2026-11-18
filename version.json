@@ -1,13 +1,13 @@
 {
   "app": "MUSE_CINEMA_STUDIO",
-  "version": "1.5",
-  "title": "Bản cập nhật MUSE CINEMA STUDIO v1.5",
-  "changelog": "• Nâng cấp Hệ thống Khóa Vũ Khí & Pháp Bảo Thông Minh (Weapon DNA + Ô Ảnh Vũ Khí riêng + Tự động khóa hình học ở cảnh chiến đấu chống biến đổi loạn xạ). • Khi có Vũ khí cố định, AI Tạo Nhân Vật tự vẽ góc 3/4 cầm đúng vũ khí ngay từ ảnh gốc. • Bổ sung nút Xóa Toàn Bộ Làm Lại Từ Đầu ở Thanh trên cùng & Bước 1-2 (giữ nguyên tài khoản đã đăng nhập).",
+  "version": "1.6",
+  "title": "Bản cập nhật MUSE CINEMA STUDIO v1.6",
+  "changelog": "• Sửa lỗi nhân vật cảnh nào cũng cầm vũ khí: bộ nhận diện mới chỉ cho rút vũ khí khi cảnh có hành động thật (rút kiếm, vung đao, giao chiến...), không còn nhầm các từ thường như 'cùng', 'con', 'tên', 'nó', 'tìm kiếm', 'cung điện'\n• Gán đúng người cầm vũ khí trong cảnh nhiều nhân vật\n• Thêm ô '⚔️ Vũ khí: Tự động / Rút vũ khí / Tay không' trên từng thẻ cảnh để ép thủ công\n• Cảnh hòa bình tự dặn AI bỏ qua vũ khí trong ảnh nhân vật & tự cất vũ khí khi nối từ cảnh đánh nhau\n• Ảnh chân dung AI giờ luôn vẽ tay không (vũ khí khóa riêng bằng ảnh vũ khí)\n• Chế độ 'Đeo theo người': vũ khí chỉ đeo ở hông/lưng, chỉ rút khi cần",
   "mandatory": false,
-  "patchFile": "update_v1.5.zip",
-  "patchSize": 216940,
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v1.5.zip",
-  "sha256": "f27795496ad9017943d1f3249bc53a65697d0161e75900b79c63f67f96bf0716",
-  "publishedAt": "2026-11-17T17:50:05.660Z",
-  "signature": "UR-uN8qrsVHJCejnPAkapwvXThtu0FgsNEMf0gUztlgIkehEe88tZ9WLhn9bmKej3OZMTKJA00sLaCzy28pa1cex40QQqaDVOh2Q_WyHcCkHvv3VlxGlaPslT3ApHpB5ofHXWx36UFVkyZM6xI-aUs-N9YBUwI_JgZFzm93gHuR7vHWZvER-YzxRq8UiIrghWC_QEevVc3hI-ScDg6HV1Qh8SOZzJUK2JYCvaZCXJPlaiY4WiH_n8lRTaXX-8Gt_HpqLZLzwaGYCJ8q_72vc0cBj2vScq7yj5bDr94DerfHvpNq2CpYtxhlN8-Y9t-blaDofNUjnw2XTDoKTwh9_mw"
+  "patchFile": "update_v1.6.zip",
+  "patchSize": 221502,
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v1.6.zip",
+  "sha256": "3d3e09e5264265d9b383bffb1a08a6f5ba03e69227b4fd917752010c245ae655",
+  "publishedAt": "2026-11-18T12:50:43.513Z",
+  "signature": "B1Ir7YIlPktSk_M4l9EpDDhxJM1vlAMo3uppEoK7jRJfgQH03QRLHWWejlmb2diUKuBNrB4zo02e4khxtBKipAINQmPWuvoiKyOxV0Thlqke_BJSaWp9s51r0zuGC1IfZPe297bPf6jZIXAHoy_lQeM9KIlpQDqsDdgfCUhGAhbV6u6sz-IIORWXTd1TQcUULueAP30oD4pWG1xRnfGmDxJcRnBHfBOBrdWzLR8Kf3PerZio8BB_eXyPWws2rvIlywNg0duXfNflbfuNBQna5n-Bykk2Az4Lr83jJaYo6dmqqcH1AZwgt08gyrUss8gSW2dkqdIpiSIM3COoZJe7LA"
 }
