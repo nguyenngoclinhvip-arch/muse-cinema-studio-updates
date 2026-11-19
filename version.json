@@ -1,13 +1,13 @@
 {
   "app": "MUSE_CINEMA_STUDIO",
-  "version": "2.2",
-  "title": "Bản cập nhật MUSE CINEMA STUDIO v2.2",
-  "changelog": "Nâng cấp v2.2: Tái thiết kế toàn diện Chiến Đấu Thực Chiến & Kỹ Xảo Điện Ảnh Hollywood cho phim Tiên Hiệp / Võ Hiệp — loại bỏ hoàn toàn kỹ xảo neon giả, vòng phép thuật phẳng kiểu game, bay lơ lửng mất trọng lực và xoay máy gây gãy vật lý; chuyển sang chuẩn phim điện ảnh ARRI 65 (Hero / Tương Dạ / Tú Xuân Đao) với 1–2 nhịp va chạm nặng đô có trọng lượng thép thật, tia lửa hàn rơi theo trọng lực chiếu sáng lên mặt, sóng khí khúc xạ xé sương/bụi đá; thêm chế độ Đại Chiến Thần Ma & Kiếm Hiệp Thuần Thực Chiến ở Bước 1.",
+  "version": "2.3",
+  "title": "Bản cập nhật MUSE CINEMA STUDIO v2.3",
+  "changelog": "Sửa lỗi nóng v2.3: Khôi phục 100% chế độ Quay Đa Luồng Tốc Độ Cao (song song đủ 4/6/8 cảnh cùng lúc mà không bị cờ tự động Nối cảnh trước ép chạy tuần tự 1 cảnh); tách riêng 3 chế độ bấm máy rõ ràng (Quay Đa Luồng Tốc Độ Cao / Đa Luồng Thông Minh / Nối Mạch Tuần Tự) và truyền trực tiếp số luồng khi bấm máy.",
   "mandatory": false,
-  "patchFile": "update_v2.2.zip",
-  "patchSize": 274087,
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v2.2.zip",
-  "sha256": "f0cbc94ace714adb07822ba7733ae254cf7977db089b337d4b27449421d83012",
-  "publishedAt": "2026-11-19T18:00:08.926Z",
-  "signature": "ntE1AQGX6VmIQyx6L-hHTRknVIInJalqCCEAHFjbQ9KonSwNyiavVtBnuU3eoEhaIgeEKla8b58iuEHnP6zW04zTe2i9pzPdDo5RkAHD-oJJvYUdIZrHNo4-vl68we5qzAlXGDMgpFnrZo_YaIkEO_xhM35rwD-09ao2lDe1HrcRekkL6Kkzo7N-y_Q7FT-u4casxuRzy27vD0DBWycV3EGgWVjkUZ5q6vSQsYbOk97ej2vlTwpg4Q0rAkoIz8oxPRQIi4dSk_qycqdqTHzIwfrh3V9Brgt47-4XvsM_-uMRYNvyPEvHjpA4cPwco7GUeHfnz5FeO-WCxjD6TFY-SQ"
+  "patchFile": "update_v2.3.zip",
+  "patchSize": 274808,
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v2.3.zip",
+  "sha256": "d2f37485c68f4cddc973434a64ee4fbca5e21d0e1fa8e5839d06347a3bfac84c",
+  "publishedAt": "2026-11-19T18:27:13.693Z",
+  "signature": "Bpj8-iHKb3Sfz3Kg2KOxbZ2YoeFRRL1Mxp21touH_KHMS8y1JMUT03EiwYLHLuDF76NYYqtOxd50pHG_MSHSWkgqhSIzXELPanO9B10QNBr6eFJLCaDlxZcWV8ccMKKioNfeL-sHhGU6jbrNaMMFCXimt2bM8isWzTVHdNOKq8dZcFF-JE2bgAFdb45rWfqmHhsrObNyBwEFANRMq0yR69AtSecTYRhtTS0dapW8oEPUEHMYr2o0rC6DGctLVSEq6ZXroed2ZA0rE-5_wexW8THYCwcTcpnskjYcxnANDoamWFyYI6-pv8sCg9-vUgXQN7shEHggtrTzUkQp9Ate-A"
 }
