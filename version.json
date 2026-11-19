@@ -1,13 +1,13 @@
 {
   "app": "MUSE_CINEMA_STUDIO",
-  "version": "2.0",
-  "title": "Bản cập nhật MUSE CINEMA STUDIO v2.0",
-  "changelog": "Nâng cấp lớn v2.0: Xưởng Thiết Kế Poster Phim Truyền Hình & Trailer Tự Động 4-trong-1 — (1) Engine đồ họa Poster HTML5/CSS3 Full HD 1920x1080 qua Chromium với 6 phong cách chuẩn VTV/Netflix/iQIYI (chữ kim loại chuyển sắc, serif sang trọng, huy hiệu TRAILER CHÍNH THỨC, câu thoại đắt giá & tên dàn diễn viên); (2) Chế độ AI Muse.ai vẽ riêng Poster Key Art đa nhân vật; (3) Bố cục ghép đa nhân vật Double-Exposure & chia khung cao trào 0 tốn Token; (4) Tách nút Tạo Riêng 3 Ảnh Bìa tức thì + xuất Bộ 3 Phương Án Poster để chọn + nâng cấp khung kết thúc Trailer đồng bộ Poster.",
+  "version": "2.1",
+  "title": "Bản cập nhật MUSE CINEMA STUDIO v2.1",
+  "changelog": "Nâng cấp v2.1: Khóa chặt đối mặt & ánh mắt trực diện khi đối thoại (chấm dứt lỗi nói chuyện nhìn hướng khác, ưu tiên góc quay qua vai / hai người đối diện); Đột phá Đạo diễn Chiến đấu Tiên Hiệp & Võ Hiệp kịch tính chuẩn bom tấn Donghua (chiêu thức liên hoàn 3 nhịp, kiếm khí, va chạm tóe lửa, sóng xung kích vỡ đá, âm thanh chiến đấu mạnh mẽ, tự luân phiên góc quay hành động đa dạng); bổ sung tùy chọn Cường Độ Cảnh Chiến Đấu ở Bước 1.",
   "mandatory": false,
-  "patchFile": "update_v2.0.zip",
-  "patchSize": 265463,
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v2.0.zip",
-  "sha256": "e250ce1cc733bd77d1047f6bfcc37272cac69fb132c82a8b4eac52c5d8bc2ba6",
-  "publishedAt": "2026-11-18T21:00:50.179Z",
-  "signature": "Dw8DgytOJRr0StlIisOuWLeWDb5MZbUBT6RgBKVKL5A-vl-X1eHwUg2DezmDA7RHolE5ld7Kz5W8r_cYTGgV4nZPgRBXBYsO-lBgnushFLr7E5YV5iuQnzxqkN89kSmEMen3Q4XOLnynxs261iova80SlmI17JfW4pSaEvjR3s67ivFeouUte1kxfsCzG4Qjvm3Zad_YNojZjCnypo28nX42Z5EKykOqf0n7dD-abkO1FCmJev1smY5S7gImth7DOWl0l8k8QmxoZmu3qvimxkMaoQfhfaflStGUs80LgvLX8Uks8shlxVn7nbdGE7-tDQDmwPmpgz0-IlcXXF0pZw"
+  "patchFile": "update_v2.1.zip",
+  "patchSize": 272360,
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v2.1.zip",
+  "sha256": "b3978e54d56d30f8c57ab0d5031986badaac3e6c23ba83beeece717781fbc920",
+  "publishedAt": "2026-11-19T09:17:35.946Z",
+  "signature": "PvR5QKKjf5f3fXgAad3HhFGgfRWcHlVDiOQbr4krDaQjSXI-wUgmHSqVPHWIN3cWCryd-nJS3ULd-uCzcniDd869kSbZA5TJjgIVymduAHvtNutZaTwa04yvkZxJH9cQmBQoYslStl0RmTG6fYAiTMs54-pZCF_ii3P0a6D85D1ou1UFv2_Lu44NEUGf4wZoI0kolye_79EHzc8rzMULKB75qO3n-AYtuasODXmCVUfXKipizktpMN0O4BEK9Chu0Bob1bVCDbugpaLijy2xRJMCFC2HXW4bDBDcM4PuV5nPCCOqsWoszMW6a0Hz3JGZHZn8hiUWZJoX-efyNAKsFQ"
 }
