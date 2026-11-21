@@ -1,13 +1,13 @@
 {
   "app": "MUSE_CINEMA_STUDIO",
-  "version": "2.3",
-  "title": "Bản cập nhật MUSE CINEMA STUDIO v2.3",
-  "changelog": "Sửa lỗi nóng v2.3: Khôi phục 100% chế độ Quay Đa Luồng Tốc Độ Cao (song song đủ 4/6/8 cảnh cùng lúc mà không bị cờ tự động Nối cảnh trước ép chạy tuần tự 1 cảnh); tách riêng 3 chế độ bấm máy rõ ràng (Quay Đa Luồng Tốc Độ Cao / Đa Luồng Thông Minh / Nối Mạch Tuần Tự) và truyền trực tiếp số luồng khi bấm máy.",
+  "version": "2.4",
+  "title": "Bản cập nhật MUSE CINEMA STUDIO v2.4",
+  "changelog": "Nâng cấp Động cơ Kỹ xảo 3D Cinema Tiên Hiệp AAA (chuẩn Bạch Xà / Dương Tiễn / Unreal 5.5 + Houdini Pyro VFX): lốc bụi khí động lực học, bùa/hạt vật lý 3D đa tầng, khinh công & võ thuật cận chiến speed-ramp, ánh sáng Cổ Miếu Tia Sáng Xanh Ngọc, bộ lọc màu hậu kỳ 3D Cinema 21:9 & kịch bản mẫu Tiên Hiệp 3D Chiếu Rạp.",
   "mandatory": false,
-  "patchFile": "update_v2.3.zip",
-  "patchSize": 274808,
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v2.3.zip",
-  "sha256": "d2f37485c68f4cddc973434a64ee4fbca5e21d0e1fa8e5839d06347a3bfac84c",
-  "publishedAt": "2026-11-19T18:27:13.693Z",
-  "signature": "Bpj8-iHKb3Sfz3Kg2KOxbZ2YoeFRRL1Mxp21touH_KHMS8y1JMUT03EiwYLHLuDF76NYYqtOxd50pHG_MSHSWkgqhSIzXELPanO9B10QNBr6eFJLCaDlxZcWV8ccMKKioNfeL-sHhGU6jbrNaMMFCXimt2bM8isWzTVHdNOKq8dZcFF-JE2bgAFdb45rWfqmHhsrObNyBwEFANRMq0yR69AtSecTYRhtTS0dapW8oEPUEHMYr2o0rC6DGctLVSEq6ZXroed2ZA0rE-5_wexW8THYCwcTcpnskjYcxnANDoamWFyYI6-pv8sCg9-vUgXQN7shEHggtrTzUkQp9Ate-A"
+  "patchFile": "update_v2.4.zip",
+  "patchSize": 279929,
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v2.4.zip",
+  "sha256": "32c45c45e237fcbcaff572eb282db3da0bd19677fdb2b7deb03784371b96f95d",
+  "publishedAt": "2026-11-21T20:57:06.105Z",
+  "signature": "i19Nu0SyrFwAOQ7mCN-Lg5qx4byasWsgFIlX5dI3mZLtlnOOYZCsKErRZZvkQ3SFTStT-AzGzDKZHYspPb--9TrwNB8I-8mJy0su-mafZGjdb0dHujzcPfm5S8I29plM29ztmli4z8sY_w9KszBkhIKMtljj35X8tx2qPzItUExVrN_UOgxp5xKKP_VayIlLLHPQq2RLE3a9f4s6rHxlto0qyO3JYa9AKnpgorxksPOW3QFXHEaGo02BsxL0dX3ExzH4XkvQP3v681dtjqWkebGeOVv7yb0qLappLZdIUYeRE4mszVV5a8cl5LbBxw_ohvNr9egWp9wu5WxgtFqQxA"
 }
