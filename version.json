@@ -1,13 +1,13 @@
 {
   "app": "MUSE_CINEMA_STUDIO",
-  "version": "2.9",
-  "title": "Bản cập nhật MUSE CINEMA STUDIO v2.9",
-  "changelog": "• Bản v2.9: Tự động lưu & nhớ Key bản quyền theo máy (AppData + Registry + tự khôi phục từ thư mục bản cũ) khi lên phiên bản mới • Tự động cập nhật Shortcut ngoài Desktop khi nâng cấp OTA",
+  "version": "3.0",
+  "title": "Bản cập nhật MUSE CINEMA STUDIO v3.0",
+  "changelog": "• Bản v3.0: Thêm thể loại Phim Drama chuyên biệt và tự động lưu khóa chuẩn ánh sáng cảm biến Sony Venice 2 / FX9 4K–8K (ống kính 50mm/85mm f/1.8 • cân bằng trắng 5600K sạch tinh • bù sáng mặt +0.4 EV • tôn da sáng hồng chi tiết thật và xóa phông kem mịn)",
   "mandatory": false,
-  "patchFile": "update_v2.9.zip",
-  "patchSize": 287561,
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v2.9.zip",
-  "sha256": "4cdbac663a2642346bb6b6ec9e95639efd8f160b70089acf26107b1d66849a1b",
-  "publishedAt": "2026-11-24T11:06:30.851Z",
-  "signature": "fYDg1fJqNqoaN82nWS4Lu_B-WzuN1LLRvBoINEekdX2zDF2N9Rgf5hOTattvDpGRBGC1cje0yDPatA1WM6Yve-dQ2hxwO2fH-rqb23eZ6urvHtRNZ2We5jiyWkX4gHIHXKlom-rvZvI6V7FT2UgOkoPUGrUF4_YrT81ddSpAzL9RvL14GtXbjW0iL9PIvS2yiYXJNic4k5lQkMAArmjxABvUSm69S53CFsKI_OikSHIVfDM9a6-UJ9UPNAvphceM9trYe4RmMWxLq41vWrD6etNGSdMeV_WF4ebExwv6wl_91dkSTkrUo22S3a-HaylEizCl2-wbDn3OS22mQuQQ3w"
+  "patchFile": "update_v3.0.zip",
+  "patchSize": 288628,
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v3.0.zip",
+  "sha256": "63f582f94dd2bf33fa8e1298864928cf35bcd4fdce5b6ec1b3cd44f6ffa9691c",
+  "publishedAt": "2026-11-24T11:13:49.796Z",
+  "signature": "kbomg0u9NXUNmhE3382s2e7GqG0U8q1HE4euFuJL-gjMLX45F64wMriwHTWKLBKQR29TJhs-Z0PGE8coKTMrZTD_df6j1H4oxD3fiOmtv2eUxeKtX7Nyj6oxgp3CmlGDc2sUGiceMFM_Cca2DTMaZKaNQH9QY2aIKdECqFuLnkDgtmW0VL1qHjt46W3SvdW6CptCvRd0ruWqcT7bANX5OldTw-TdpJrwqawe76ERc3DmLBE_NhdVO5rXFe_2x-pM0xkgszEOR8aDeM4MagAF8DaC9WNOem6zXNritxycLB4P3STQw8xYSuPp-QqPzRcU0rXeeEMTaIoxa8Cy5QVxJg"
 }
