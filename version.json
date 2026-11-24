@@ -1,13 +1,13 @@
 {
   "app": "MUSE_CINEMA_STUDIO",
-  "version": "2.8",
-  "title": "Bản cập nhật MUSE CINEMA STUDIO v2.8",
-  "changelog": "• Bản v2.8: Nâng cấp hệ màu 4K trong trẻo & ánh sáng tự nhiên tươi sáng (5600K High-Key Daylight, tôn da sáng mịn, xóa sạch hạt nhiễu & màu phim cũ tối) cho các thể loại Phim Đời Thực, Tâm Lý Gia Đình và Ký Sự",
+  "version": "2.9",
+  "title": "Bản cập nhật MUSE CINEMA STUDIO v2.9",
+  "changelog": "• Bản v2.9: Tự động lưu & nhớ Key bản quyền theo máy (AppData + Registry + tự khôi phục từ thư mục bản cũ) khi lên phiên bản mới • Tự động cập nhật Shortcut ngoài Desktop khi nâng cấp OTA",
   "mandatory": false,
-  "patchFile": "update_v2.8.zip",
-  "patchSize": 285897,
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v2.8.zip",
-  "sha256": "949c9a7fb9903bd009076592cc944032f433d9fa22052f7263dfb5bc5d6f6c9f",
-  "publishedAt": "2026-11-24T10:45:45.847Z",
-  "signature": "shArz7PdgCercJ7R4rAJC4P2J4XPS2ZbC1Sf1SyrzAJ2ZCgpzHHCEAq-qi9hFjAwZiD_NGaKfWVo5OZf8tXs_52FQ1UipdgSIbM3ssuXMEyaLNsZ66wPYagxMqF-Hs4_RM1vv5DsobmuajEIVUQAfhmgrgivMzs_zTB1JzHH7Avz-SyLFlN1rY0X4805_dntzpHtZkZeUhEbns-aTBEIecmqGvA8yu32NvNJK9mtZ4peGeqeDOGvxIkrW_tolYS5CegtDnI9fPfIii0kIqvgoZ73raDr7kAPCBjP7MebmDdbEgJYqeAKTgTR-bGQzcbQQlVAf0o6U1UpgbpcR3mR6g"
+  "patchFile": "update_v2.9.zip",
+  "patchSize": 287561,
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v2.9.zip",
+  "sha256": "4cdbac663a2642346bb6b6ec9e95639efd8f160b70089acf26107b1d66849a1b",
+  "publishedAt": "2026-11-24T11:06:30.851Z",
+  "signature": "fYDg1fJqNqoaN82nWS4Lu_B-WzuN1LLRvBoINEekdX2zDF2N9Rgf5hOTattvDpGRBGC1cje0yDPatA1WM6Yve-dQ2hxwO2fH-rqb23eZ6urvHtRNZ2We5jiyWkX4gHIHXKlom-rvZvI6V7FT2UgOkoPUGrUF4_YrT81ddSpAzL9RvL14GtXbjW0iL9PIvS2yiYXJNic4k5lQkMAArmjxABvUSm69S53CFsKI_OikSHIVfDM9a6-UJ9UPNAvphceM9trYe4RmMWxLq41vWrD6etNGSdMeV_WF4ebExwv6wl_91dkSTkrUo22S3a-HaylEizCl2-wbDn3OS22mQuQQ3w"
 }
