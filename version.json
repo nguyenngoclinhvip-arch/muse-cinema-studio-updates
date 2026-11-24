@@ -1,13 +1,13 @@
 {
   "app": "MUSE_CINEMA_STUDIO",
-  "version": "2.6",
-  "title": "Bản cập nhật MUSE CINEMA STUDIO v2.6",
-  "changelog": "• Nâng cấp v2.6: Bảng Thiết Kế Nhân Vật Đa Góc 360° 16:9 (Cận mặt lớn + Toàn thân Trước & Sau) khóa chặt trang phục, giày ủng, tóc sau lưng và chống phân thân • Tích hợp khung 16:9, chọn kiểu ảnh nhân vật và phóng to soi nét tại Bước 2",
+  "version": "2.7",
+  "title": "Bản cập nhật MUSE CINEMA STUDIO v2.7",
+  "changelog": "• Bản v2.7: Tách riêng 4 chế độ chiến đấu (3D Cinema Tiên Hiệp Chiếu Rạp, Đại Chiến Thần Ma 3D, Kiếm Hiệp Cận Chiến, Đối Đầu Tiết Chế) độc quyền cho riêng thể loại Tiên Hiệp 3D Cinema",
   "mandatory": false,
-  "patchFile": "update_v2.6.zip",
-  "patchSize": 283835,
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v2.6.zip",
-  "sha256": "818e3307dc88a9eff4510872dfae782c6d69ad278eed36f5cce8fdc5d3a6ce9f",
-  "publishedAt": "2026-11-24T10:15:21.925Z",
-  "signature": "L4bEy_3rSeIF-QaXILhnDjgIY92O-CGMtKz7sNw7VavQ4rJJ8NzteCG-eIGSAVV87ra9U0Ebe7uYUT-9Gm-CB846C-tzCuX_K0VMTxQFBiWVewh7AM8fZ9mwTzpgUmqcZ6inUOFt5DeSn9b7ktZRzlD1Zsy5ewXmwW8b_LgPaVOYEQk9hn34yXCzpA12bHS5vdqxRPHHOoqgy1yDqp7OeXb3V3RDOz4MEhbCzU1Z_hVnHebl5fy2D8kKn5YmNlhqGGn5clx7erRSAw77sXiadcWxn_J_izOw0CkSonvs9S5BMYkgGztIllTdri3rv4EzGuwP_fYLWukE0SY-_lnxKQ"
+  "patchFile": "update_v2.7.zip",
+  "patchSize": 284134,
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v2.7.zip",
+  "sha256": "572349ba1097ea004b410685d7e39b27bb43f1003878c7e08b2111cb0873ef41",
+  "publishedAt": "2026-11-24T10:22:39.196Z",
+  "signature": "kL5DDFQYcTae7ki-_pAa-8GoCFByzi2mivsHxlzdEMZnclW90CNu12hx12He0A16fXfqdAnzB_G3Knbdj0sPC-Y08Xn_QaIIQvNgl5QUNo7Ea2za7AKSFPOFbpWUFIIoGx8dk7ndQa11SPHSAKTQ9eeUycrTUC1uLjjdVA-qlQJ2mtRmL4g210RX-gwpV8dNTJ6QfQ1FaPwvfp8bYWTmP8JJvTQJBdS8_l9C0FCPQ9n8liMj9p9XKve92Duc4EUtQ6qorYyMbTeZZ7vKwHziHLF6LV1nCdBNxzm7OZ49-1Opge3YmPUoH7AWHq7QdRAWvajNXsPfmexgDMd23VLM4A"
 }
