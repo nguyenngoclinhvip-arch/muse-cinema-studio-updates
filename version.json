@@ -1,13 +1,13 @@
 {
   "app": "MUSE_CINEMA_STUDIO",
-  "version": "2.7",
-  "title": "Bản cập nhật MUSE CINEMA STUDIO v2.7",
-  "changelog": "• Bản v2.7: Tách riêng 4 chế độ chiến đấu (3D Cinema Tiên Hiệp Chiếu Rạp, Đại Chiến Thần Ma 3D, Kiếm Hiệp Cận Chiến, Đối Đầu Tiết Chế) độc quyền cho riêng thể loại Tiên Hiệp 3D Cinema",
+  "version": "2.8",
+  "title": "Bản cập nhật MUSE CINEMA STUDIO v2.8",
+  "changelog": "• Bản v2.8: Nâng cấp hệ màu 4K trong trẻo & ánh sáng tự nhiên tươi sáng (5600K High-Key Daylight, tôn da sáng mịn, xóa sạch hạt nhiễu & màu phim cũ tối) cho các thể loại Phim Đời Thực, Tâm Lý Gia Đình và Ký Sự",
   "mandatory": false,
-  "patchFile": "update_v2.7.zip",
-  "patchSize": 284134,
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v2.7.zip",
-  "sha256": "572349ba1097ea004b410685d7e39b27bb43f1003878c7e08b2111cb0873ef41",
-  "publishedAt": "2026-11-24T10:22:39.196Z",
-  "signature": "kL5DDFQYcTae7ki-_pAa-8GoCFByzi2mivsHxlzdEMZnclW90CNu12hx12He0A16fXfqdAnzB_G3Knbdj0sPC-Y08Xn_QaIIQvNgl5QUNo7Ea2za7AKSFPOFbpWUFIIoGx8dk7ndQa11SPHSAKTQ9eeUycrTUC1uLjjdVA-qlQJ2mtRmL4g210RX-gwpV8dNTJ6QfQ1FaPwvfp8bYWTmP8JJvTQJBdS8_l9C0FCPQ9n8liMj9p9XKve92Duc4EUtQ6qorYyMbTeZZ7vKwHziHLF6LV1nCdBNxzm7OZ49-1Opge3YmPUoH7AWHq7QdRAWvajNXsPfmexgDMd23VLM4A"
+  "patchFile": "update_v2.8.zip",
+  "patchSize": 285897,
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-cinema-studio-updates/main/patches/update_v2.8.zip",
+  "sha256": "949c9a7fb9903bd009076592cc944032f433d9fa22052f7263dfb5bc5d6f6c9f",
+  "publishedAt": "2026-11-24T10:45:45.847Z",
+  "signature": "shArz7PdgCercJ7R4rAJC4P2J4XPS2ZbC1Sf1SyrzAJ2ZCgpzHHCEAq-qi9hFjAwZiD_NGaKfWVo5OZf8tXs_52FQ1UipdgSIbM3ssuXMEyaLNsZ66wPYagxMqF-Hs4_RM1vv5DsobmuajEIVUQAfhmgrgivMzs_zTB1JzHH7Avz-SyLFlN1rY0X4805_dntzpHtZkZeUhEbns-aTBEIecmqGvA8yu32NvNJK9mtZ4peGeqeDOGvxIkrW_tolYS5CegtDnI9fPfIii0kIqvgoZ73raDr7kAPCBjP7MebmDdbEgJYqeAKTgTR-bGQzcbQQlVAf0o6U1UpgbpcR3mR6g"
 }
